@@ -1,0 +1,5 @@
+1.input three numbers and print the greatest.
+2.input age and check wheather it is zero or non-zero.
+3.input marks and print pass if marks are abouve 35;otherwise print fail
+4.input marks and display the grade using these rules.
+5.check the given number is positive or negative.
