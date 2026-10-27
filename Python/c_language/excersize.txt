@@ -1,0 +1,15 @@
+1.input three numbers and print the greatest.
+2.input age and check wheather it is zero or non-zero.
+3.input marks and print pass if marks are abouve 35;otherwise print fail
+4.input marks and display the grade using these rules.
+5.check the given number is positive or negative.
+6.write a program to calculate &display area of circle using given radius.
+7.write a program to calculate and display meter&remaining foot of given foot.
+8.write a program to calculate and display simple intrest of given amount,rate and year.
+9.print numbers from 10 to 1 in revserse order.(while)
+10.print the square of numbers from 1 to 10.(while)
+11.write a program to accept value and display value into 1d array.accept 5 user's choice.(1d array)
+12.print all prime numbers between the 1 to 100.
+13.find the gdc of two numbers(loop)
+14.chech wheather a number is armstrong or not.
+15.allow user to add money .spend money and check the remaning balance
