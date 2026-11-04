@@ -1,0 +1,6 @@
+nations=("India","united states","India","china","Russia","Germany","France","japan","brazil","united kingdom","Astralia","Russia","India")
+print(nations)
+print("count of india:",nations.count("India"))
+print("count of russia:",nations.count("Russia"))
+print("count of norway:",nations.count("Norway"))
+print("count of japan:",nations.count("japan"))
