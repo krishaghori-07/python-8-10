@@ -1,0 +1,21 @@
+1.print your information.
+-print your name,age,city and schoolname.
+2.add two numbers.
+-take two numbers from the user and display thier sum.
+3.calculate area of rectangle
+-take length and width from the user.
+-calculate and display the area.
+4.swap two numbers
+-take two values from user and swap thier values.
+5.convert celsius to farenheit.
+-take temprature in celsius.
+-convert it into farenheit.
+6.create one program which take the input from the user for num1 and num2 and also do the addition,substraction,multiplication and division.
+7.calculate the area of circle
+-take the radius from user and calculate the area of circle.
+8.calculate the total and average
+-take marks of three subjects and calculate the total and average.
+9.create tuple.
+-create a tuple containing 5 city names and print it.
+10.create list.
+-create list which containing 5 fruits name and print it.
