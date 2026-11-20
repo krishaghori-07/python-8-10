@@ -1,0 +1,12 @@
+#student marks comparison system
+student1=input("enter first student's name:")
+marks1=int(input("enter first student's marks:"))
+student2=input("enter second student's name:")
+marks2=int(input("enter second student's marks:"))
+print("\n-----------------student marks comparison----------------------------------")
+print(student1,"scored more marks:", marks1 > marks2)
+print(student1,"scored fewer marks:", marks1 < marks2)
+print("both students scored equal marks:", marks1 == marks2)
+print("marks are not equal:", marks1 != marks2)
+print(student1,"scored at least much as", student2, ":" , marks1 >= marks2)
+print(student1,"scored at most as much as", student2, ":" ,marks1 <= marks2)
