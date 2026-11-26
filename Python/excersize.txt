@@ -19,3 +19,9 @@
 -create a tuple containing 5 city names and print it.
 10.create list.
 -create list which containing 5 fruits name and print it.
+11.write a program to check weather a password length is at least 8 characters.(if condition)
+12.write a program to check  a person's salary is greater than 25,000.(if condition)
+13.write a program to check weather a student hase attendance above 75%.(if condition)
+14.write a program to check weather a person's monthly income is greater than the avergae income of three given people.(if condition)
+15.write a program to check weather a student qualifies for a scolership(marks above 85 and attendance above 90%).(if condition)
+16.write a program to check weather a number is a 3-digit number and it's last digit is 7.(if condition)
