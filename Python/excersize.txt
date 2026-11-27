@@ -25,3 +25,10 @@
 14.write a program to check weather a person's monthly income is greater than the avergae income of three given people.(if condition)
 15.write a program to check weather a student qualifies for a scolership(marks above 85 and attendance above 90%).(if condition)
 16.write a program to check weather a number is a 3-digit number and it's last digit is 7.(if condition)
+17.write a program which find the day which day is sunday and which day is monday.(if-elif-else ladder)
+18.write a program to create the restaurant menu.(if-elif-else ladder)
+19.write a program to create a water bill calculator.(if-elif-else ladder)
+20.write a program to month finder.(if-elif-else ladder)
+21.write a program to check the atm pin and withdrawal amount.(nested if)
+22.write a progrm to check the two numbers are equal or not.(if-else)
+
